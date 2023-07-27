@@ -10,7 +10,6 @@ function findMax(numbers) {
 
   return max;
 }
-
 // Example usage
 const numbers = [5, 10, 25, 6]; 
 
